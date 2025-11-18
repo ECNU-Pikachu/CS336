@@ -72,7 +72,7 @@ python rlhf_training.py
 
 ## 📄 许可证
 
-本项目仅用于学习目的，遵循MIT许可证。
+本项目采用 MIT 许可证 - 详情请见 `LICENSE` 文件。
 
 ---
 
