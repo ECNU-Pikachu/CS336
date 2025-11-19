@@ -4,13 +4,12 @@
 
 ## 📁 项目结构
 
-```
+```plaintext
 CS336/
 ├── assignment1/
 │   ├── assignment1-basics/
 │   └── theory_questions
 └── README.md
-
 ```
 
 ## 🚀 快速开始
