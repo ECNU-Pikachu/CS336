@@ -7,8 +7,8 @@
 ```
 CS336/
 ├── assignment1/
-    ├── assignment1-basics/
-    └── theory_questions
+│   ├── assignment1-basics/
+│   └── theory_questions
 └── README.md
 
 ```
