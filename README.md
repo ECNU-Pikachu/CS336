@@ -44,7 +44,7 @@ pytest tests/ -v
 
 ### 作业1：Building a Transformer LM
 - pytest tests/test_train_bpe.py 测试点通过（2/3），测试点1可通过建立反向索引/使用更好的处理器尝试解决
-- pytest tests/test_tokenizer.py 测试点未通过，本作业本应在Linux环境实现，但是我在Windows下实现，因此缺少resource库，在Linux写作业的小伙伴可以尝试运行pytest，若在Windows下运行，注意将'/tests'下的'test_tokenizer.py'改名，使pytest无法正确识别以顺利进行其他测试，例如改为'test_tokenizer.py.bak'
+- pytest tests/test_tokenizer.py 测试点未通过，本作业本应在Linux环境实现，但是我在Windows下实现，因此缺少resource库，在Linux写作业的小伙伴可以尝试运行pytest，若在Windows下运行，注意将`/tests`下的`test_tokenizer.py`改名，使pytest无法正确识别以顺利进行其他测试，例如改为`test_tokenizer.py.bak`
 - pytest -k test_linear 测试点通过
 - pytest -k test_embedding 测试点通过
 - pytest -k test_rmsnorm 测试点通过
