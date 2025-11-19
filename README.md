@@ -5,11 +5,12 @@
 ## 📁 项目结构
 
 ```
-cs336-assignments/
-├── assignment1-basics/     # Transformer 基础实现
-├── assignment2-pretraining/ # 预训练与微调
-├── assignment3-rlhf/       # 基于人类反馈的强化学习
+CS336/
+├── assignment1/
+    ├── assignment1-basics/
+    └── theory_questions
 └── README.md
+
 ```
 
 ## 🚀 快速开始
@@ -32,7 +33,8 @@ pip install -r requirements.txt
 
 ### 运行作业
 ```bash
-# 作业1：Transformer基础
+# assignment1
+
 cd assignment1-basics
 pytest tests/ -v
 
